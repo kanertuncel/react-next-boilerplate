@@ -11,7 +11,7 @@ export class Header extends React.Component<IHeaderProps, IHeaderState> {
   render() {
     return (
       <header>
-        HeaderComponent
+        HeaderComponents
       </header>
     );
   }
