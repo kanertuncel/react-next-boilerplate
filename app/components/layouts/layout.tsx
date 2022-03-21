@@ -1,8 +1,8 @@
 import * as React from "react";
 import { Header, Footer, Body, Main, Drawer } from "../sections";
 
-export interface ILayoutProps {}
-export interface ILayoutState {}
+export interface ILayoutProps { }
+export interface ILayoutState { }
 
 export class Layout extends React.Component<ILayoutProps, ILayoutState> {
   constructor(props: ILayoutProps) {
