@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Header, Footer, Body, Main, Drawer } from "../modules";
+import { Header, Footer, Body, Main, Drawer } from "../sections";
 
 export interface ILayoutProps {}
 export interface ILayoutState {}
